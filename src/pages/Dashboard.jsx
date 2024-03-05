@@ -46,7 +46,7 @@ export async function dashboardAction({ request }) {
       //create budget
       createBudget({ name: values.newBudget, amount: values.newBudgetAmount });
 
-      return toast.success("예산이 생셩되었습니다.");
+      return toast.success("예산이 생성되었습니다.");
     } catch (e) {
       throw new Error("There was a problem create your budget.");
     }
