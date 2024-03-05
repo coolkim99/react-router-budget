@@ -10,10 +10,15 @@
 </p>
 
 <h4 align="center">
-    [![React](https://img.shields.io/badge/react-%5E18.2.0-blue)](https://reactjs.org/)
-    [![React DOM](https://img.shields.io/badge/react--dom-%5E18.2.0-blue)](https://reactjs.org/)
-    [![React Router DOM](https://img.shields.io/badge/react--router--dom-6.8-blue)](https://reactrouter.com/)
-
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/react-%5E18.2.0-blue" alt="React">
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/react--dom-%5E18.2.0-blue" alt="React DOM">
+    </a>
+    <a href="https://reactrouter.com/" target="_blank">
+        <img src="https://img.shields.io/badge/react--router--dom-6.8-blue" alt="React Router DOM">
+    </a>
 </h4>
 
 <p align="center">
