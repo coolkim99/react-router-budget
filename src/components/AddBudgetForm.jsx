@@ -36,6 +36,7 @@ const AddBudgetForm = () => {
           <input
             type="number"
             step="1"
+            min="0"
             name="newBudgetAmount"
             id="newBudgetAmount"
             placeholder="ex) 300,000₩"

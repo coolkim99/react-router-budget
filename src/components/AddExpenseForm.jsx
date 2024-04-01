@@ -45,6 +45,7 @@ const AddExpenseForm = ({ budgets }) => {
             <input
               type="number"
               step="1"
+              min="0"
               inputMode="decimal"
               name="newExpenseAmount"
               id="newExpensseAmount"

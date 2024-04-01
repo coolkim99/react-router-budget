@@ -38,6 +38,7 @@ const EditBudgetForm = ({ budget }) => {
           <input
             type="number"
             step="1"
+            min="0"
             name="editBudgetAmount"
             id="editBudgetAmount"
             placeholder={budget.amount}
