@@ -22,7 +22,3 @@
 </h4>
 
 <img src="./src/readmeImg/HomeImg.png"/>
-
-The development environment should now be set up. Additional information on the different application components can be found under packages/`[application]`/README.md file. Happy hacking! 👾
-
-</details>
